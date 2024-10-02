@@ -1,6 +1,6 @@
 class SmartphoneCharger{
 
     public String chargePhone(){
-        return "Smartphone is Charged";
+        return "The Smartphone is Charged";
     }
 }
